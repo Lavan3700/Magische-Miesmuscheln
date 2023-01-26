@@ -1,0 +1,16 @@
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\Magische Miesmuscheln\Magische Miesmuscheln\obj\Debug\Magische Miesmuscheln.csproj.AssemblyReference.cache
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\Magische Miesmuscheln\Magische Miesmuscheln\obj\Debug\Magische Miesmuscheln.csproj.SuggestedBindingRedirects.cache
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\Magische Miesmuscheln\Magische Miesmuscheln\obj\Debug\Magische Miesmuscheln.csproj.CoreCompileInputs.cache
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\Magische Miesmuscheln\Magische Miesmuscheln\bin\Debug\Magische Miesmuscheln.exe.config
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\Magische Miesmuscheln\Magische Miesmuscheln\bin\Debug\Magische Miesmuscheln.exe
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\Magische Miesmuscheln\Magische Miesmuscheln\bin\Debug\Magische Miesmuscheln.pdb
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\Magische Miesmuscheln\Magische Miesmuscheln\obj\Debug\Magische Miesmuscheln.exe
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\Magische Miesmuscheln\Magische Miesmuscheln\obj\Debug\Magische Miesmuscheln.pdb
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\+Magische Miesmuscheln\Magische Miesmuscheln\obj\Debug\Magische Miesmuscheln.csproj.AssemblyReference.cache
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\+Magische Miesmuscheln\Magische Miesmuscheln\obj\Debug\Magische Miesmuscheln.csproj.SuggestedBindingRedirects.cache
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\+Magische Miesmuscheln\Magische Miesmuscheln\obj\Debug\Magische Miesmuscheln.csproj.CoreCompileInputs.cache
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\+Magische Miesmuscheln\Magische Miesmuscheln\obj\Debug\Magische Miesmuscheln.exe
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\+Magische Miesmuscheln\Magische Miesmuscheln\obj\Debug\Magische Miesmuscheln.pdb
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\+Magische Miesmuscheln\Magische Miesmuscheln\bin\Debug\Magische Miesmuscheln.exe.config
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\+Magische Miesmuscheln\Magische Miesmuscheln\bin\Debug\Magische Miesmuscheln.exe
+C:\Users\ig\OneDrive - gibb Berufsfachschule Bern\+Magische Miesmuscheln\Magische Miesmuscheln\bin\Debug\Magische Miesmuscheln.pdb
